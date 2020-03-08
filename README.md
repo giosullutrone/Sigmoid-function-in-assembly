@@ -1,5 +1,5 @@
 # Sigmoid-function-in-assembly
-~~Made on MIPS using MARS~~
+Made on MIPS using MARS
 
 About the function:
 - It takes an array of values and compute the sigmoid (element-wise)
